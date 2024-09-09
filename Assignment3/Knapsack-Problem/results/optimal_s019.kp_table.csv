@@ -1,0 +1,7 @@
+testcases,00Uncorrelated,01WeaklyCorrelated,02StronglyCorrelated,03InverseStronglyCorrelated,04AlmostStronglyCorrelated,05SubsetSum,06UncorrelatedWithSimilarWeights,07SpannerUncorrelated,08SpannerWeaklyCorrelated,09SpannerStronglyCorrelated,10MultipleStronglyCorrelated,11ProfitCeiling,12Circle
+50,True,True,True,True,True,True,True,True,True,True,True,True,True
+100,True,True,True,True,True,True,True,False,True,False,True,True,False
+200,True,True,False,True,False,True,True,False,False,False,True,False,False
+500,True,True,False,False,False,True,False,False,True,False,False,False,False
+1000,True,True,False,True,False,True,True,False,False,False,False,False,False
+2000,True,True,False,False,False,True,False,False,False,False,False,False,False
